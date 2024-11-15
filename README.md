@@ -11,4 +11,5 @@
 3. http://localhost:8000/admin/ 관리자 사이트 접근 및 확인
 
 
-
+테스트 실행
+1. python manage.py test polls
